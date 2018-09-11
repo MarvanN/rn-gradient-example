@@ -1,0 +1,1 @@
+# Example of react-native app with implementation of react-native-linear-gradient
